@@ -1,0 +1,33 @@
+| Date       | Account                        | Debit (₹)   | Credit (₹)  |
+|------------|--------------------------------|-------------|-------------|
+| Nov. 01    | Cash                           | 1,50,000    |             |
+|            | Goods                          | 50,000      |             |
+| Nov. 03    | Goods                          | 30,000      |             |
+|            | Accounts Payable (Harish)      |             | 30,000      |
+| Nov. 05    | Cash                           | 12,000      |             |
+|            | Sales                          |             | 12,000      |
+| Nov. 08    | Furniture                      | 5,000       |             |
+|            | Cash                           |             | 5,000       |
+| Nov. 10    | Accounts Payable (Harish)      | 15,000      |             |
+|            | Cash                           |             | 15,000      |
+| Nov. 13    | Sundry Expenses                | 200         |             |
+|            | Cash                           |             | 200         |
+| Nov. 15    | Cash                           | 15,000      |             |
+|            | Sales                          |             | 15,000      |
+| Nov. 18    | Bank                           | 5,000       |             |
+|            | Cash                           |             | 5,000       |
+| Nov. 20    | Drawings                       | 1,000       |             |
+|            | Cash                           |             | 1,000       |
+| Nov. 22    | Accounts Payable (Harish)      | 14,700      |             |
+|            | Cash                           |             | 14,700      |
+| Nov. 25    | Nitesh                         | 7,000       |             |
+|            | Sales                          |             | 7,000       |
+| Nov. 26    | Cartage                        | 200         |             |
+|            | Cash                           |             | 200         |
+| Nov. 27    | Rent                           | 1,500       |             |
+|            | Cash                           |             | 1,500       |
+| Nov. 29    | Cash                           | 6,800       |             |
+|            | Nitesh                         |             | 6,800       |
+|            | Discount Allowed               |             | 200         |
+| Nov. 30    | Salary Expense                 | 3,000       |             |
+|            | Cash                           |             | 3,000       |
